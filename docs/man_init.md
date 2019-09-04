@@ -26,3 +26,6 @@ The token is **not** the `Verification Token` on the `App Credentials` section.
 
 It's actually the `Bot User OAuth Access Token` under the `OAuth & Permissions` section.
 
+## Useful Links
+
+Slack's Github page seems *extremely outdated*. [This medium tutorial](https://medium.com/alex-attia-blog/build-a-first-simple-slack-bot-with-python-5392ef359835) is *way* better.
