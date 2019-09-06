@@ -4,6 +4,17 @@
 
 There has been a lot of updates with respect to the API library, so many tutorials became outdated. It's best to stick to [the official one](https://github.com/slackapi/python-slackclient/tree/master/tutorial).
 
+Other useful tutorials:
+
+- [Traversy Media](https://youtu.be/nyyXTIL3Hkw)
+- [Will Hieronymus's Python Slack Bot](https://youtu.be/tg1OoneCc_s)
+- [Matt Makai's Full Stack Tutorial](https://youtu.be/tg1OoneCc_s)
+- [Alexandre Attia's Medium Tutorial](https://medium.com/alex-attia-blog/build-a-first-simple-slack-bot-with-python-5392ef359835) (a bit outdated and not very well formatted)
+
+[Paul Asjes's Building Slack Bots book](https://www.amazon.com/dp/B01ENNEMBW/ref=nav_timeline_asin?_encoding=UTF8&psc=1) is also another great resource, though it's written in `JavaScript`.
+
+[SlackAPI HQ](https://github.com/slackapi) is a must-stop also.
+
 ## Setting Up a New Workspace
 
 You can create a new `Workspace` by going to `Window > Sign in to another Workspace` and then using the `...` on the top-righthand corner to find the respective option.
