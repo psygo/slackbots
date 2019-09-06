@@ -1,5 +1,9 @@
 # Initial Configurations
 
+## On Tutorials
+
+There has been a lot of updates with respect to the API library, so many tutorials became outdated. It's best to stick to [the official one](https://github.com/slackapi/python-slackclient/tree/master/tutorial).
+
 ## Setting Up a New Workspace
 
 You can create a new `Workspace` by going to `Window > Sign in to another Workspace` and then using the `...` on the top-righthand corner to find the respective option.
@@ -14,17 +18,19 @@ Once that's done, add it to your Workspace by going to `Basic Information`. Noti
 
 ## Setting Up the Python Workspace
 
-```bash
-pipenv install slackclient
+Note that you should use `python3`'s version of the library, which is way more stable. Please follow the recommendations found in [the official Github repo](https://github.com/slackapi/python-slackclient).
 
+```bash
 pipenv shell
+
+pip3 install slackclient
 ```
 
 ## Setting Up the Bot
 
 The token is **not** the `Verification Token` on the `App Credentials` section.
 
-It's actually the `Bot User OAuth Access Token` under the `OAuth & Permissions` section.
+It's actually the `Bot User OAuth Access Token` under the ~~`OAuth & Permissions`~~ `Basic Information` section.
 
 ## Useful Links
 
