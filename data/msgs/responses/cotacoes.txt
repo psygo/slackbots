@@ -1,0 +1,3 @@
+Na maioria dos casos, a cotação acaba sendo:
+
+R$ cotacoes / PDV

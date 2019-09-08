@@ -1,0 +1,9 @@
+Olá <@user>! Bem-vindo à Zanthus! :tada:
+
+Sugiro que você comece por aqui:
+
+1. Portal de Documentação da Zanthus: 
+2. JIRA da Zanthus: jira.zanthus.com.br
+2. Como funciona o PDV da Zanthus?
+3. Como funciona o workflow com o Jira?
+4. Onde estão os códigos de lançamentos dos mísseis nucleares?
